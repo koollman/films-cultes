@@ -1,0 +1,14 @@
+.desc {
+    font-size: 80%;
+}
+.title {
+    font-weight: bold;
+}
+
+.odd {
+    background-color:#EEEEEE;
+}
+
+.even {
+    background-color:#FFFFFF;
+}

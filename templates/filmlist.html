@@ -1,0 +1,11 @@
+{% extends "default.html" %}
+
+{% block content %}
+
+    <h1>{{ page.subpages|length }} Films Cultes:</h1>
+    {% set row_class = cycler('odd', 'even') %}
+    {% for film in page.subpages|sort(attribute='slug') %}
+      <div class="film {{ row_class.next() }}">
+        <span class="title"> {{ film.title }} </span> <a href="http://www.imdb.com/find?q={{ film.title }}&s=all">imdb</a> <span class="desc"> {{ film.content }} </span>
+    {% endfor %}
+{% endblock %}
