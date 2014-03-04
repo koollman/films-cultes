@@ -1,17 +1,17 @@
-Titre # description # réalisateur # genre # nom pour classement
+Titre # description # realisateur # genre # nom pour classement
 2001, L'odyssee de l'espace # long, mais un classique de la SF # Stanley Kubrick # SF
 23
 4 marriage et 1 enterrement
 5eme element # multipass # Luc Besson # SF
 Ace ventura # Jim Carrey est detective
-Akira # # anime,manga
+Akira # # # anime,manga
 Aladdin # voir vf et vo # # anime
 Alien - le huitième passager # Alien 1. Ellen Ripley # Ridley Scott # SF # alien-1
 Alien - le retour # Alien 2 # James Cameron # SF # alien-2
 Alien 3 # Alien 3. duh. # David Fincher # SF # alien-3
 Alien - la resurrection # Alien 4 # # SF # alien-4
 American psycho # Christian Bale, psychopathe # Mary Harron # Thriller,Horreur
-Antitrust # Ce milieu est binaire, on est soit 1 ou soit 0… on est vivant ou mort. Il n’y a pas de second rang # Geek
+Antitrust # Ce milieu est binaire, on est soit 1 ou soit 0… on est vivant ou mort. Il n’y a pas de second rang # geek
 Apocalypse now # I love the smell of napalm in the morning. # Coppola # Guerre
 Armée des 12 singes
 Arnaque crime et botanique
@@ -27,8 +27,8 @@ Blade runner # # Ridley Scott # SF
 Bloodsport
 Borat # Mon nom Borat, j’aime vous
 The Bourne Identity # # # espionnage # Bourne 1
-The Bourne Supremacy # # # # espionnage # Bourne 2
-The Bourne Ultimatum # # # # espionnage # Bourne 3
+The Bourne Supremacy # # # espionnage # Bourne 2
+The Bourne Ultimatum # # # espionnage # Bourne 3
 Braveheart
 Bruce tout puissant # Jim Carrey est Dieu # # Comédie
 Burn after reading
@@ -52,18 +52,18 @@ Dirty Dancing
 Doberman
 Dogma
 Dracula # Un vrai vampire # Coppola # Fantastique
-Dragon Rouge # Hannibal Lecter, 3 # Thriller,Policier
+Dragon Rouge # Hannibal Lecter, 3 # # Thriller,Policier  # hannibal 3
 dredd , judge dredd
 Dumb and dumber # # # Comédie
 Dune # version de 1984, ou lire les livres # # SF
 Ennemy of the state
 Equilibrium # gun kata # # SF
-E.T. # # SF
-Etrange noel de Mr jack # # anime
+E.T. # # Steven Spielberg # SF
+Etrange noel de Mr jack # quand Tim Burton participe a un film d'animation... # Henry Selick # anime
 Evil dead
 Fantasia
 Fenetre sur court
-Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club!
+Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club! # David Fincher
 Forrest Gump # Cours Forrest, Cours
 Frozen
 Full Metal Jacket # Do you think I'm cute, Private Pyle? Do you think I'm funny? # # Guerre
@@ -78,7 +78,7 @@ Gremlins 1
 Gremlins 2
 groundhog day
 Hackers # très ... pas réaliste. Mais amusant # # geek,Comédie
-Hannibal # Hannibal Lecter, 2 # # Thriller,Policier
+Hannibal # Hannibal Lecter, 2 # # Thriller,Policier # hannibal 2
 Heat
 Highlander # Avec Christophe Lambert # # Fantastique
 Hocus pocus # (vo) # # Comédie,Fantastique
@@ -91,12 +91,13 @@ Il faut sauver le soldat Ryan # # # Guerre
 Impitoyable
 Indiana jones # (tous, sauf dernier) # # Aventure
 jcvd
-Jurassic Park # # Fantastique,Action,Aventure
+Jurassic Park # Boy, do I hate being right all the time! # Steven Spielberg # Fantastique,Action,Aventure
+Krull # un vieux, vieux classique de fantasy # Peter Yates # Fantastique,Aventure
 L'arme fatale 1 2 3 4
 L'aile ou la cuisse # Louis de Funès et Coluche # # Comédie
 La cite de dieu
 La cite de la peur # Le film de Les Nuls # # Comédie
-La classe américaine: le grand détournement # # Comédie
+La classe américaine: le grand détournement # # # Comédie
 La famille Addams # # # Comédie
 La gloire de mon pere
 La grande vadrouille
@@ -129,7 +130,7 @@ Les bronzes
 Les dents de la mer
 Les evades
 les goonies
-Le silence des agneaux # Hannibal Lecter, 1. Anthony Hopkins dans un role devenu légendaire
+Le silence des agneaux # Hannibal Lecter, 1. Anthony Hopkins dans un role devenu légendaire # # # hannibal 1
 Les incorruptibles
 Les tontons flingeurs
 Les trois freres
@@ -151,9 +152,9 @@ Misery
 Mondwest
 Mon nom est personne
 Monstres et Cie
-Monty Python and the Holy Grail
-Monty Python's Life of Brian
-Monty Python's The Meaning of Life
+Monty Python and the Holy Grail # # # Comédie
+Monty Python's Life of Brian # # # Comédie
+Monty Python's The Meaning of Life # # # Comédie
 Mortal kombat
 Mrs doubtfire
 Ne le dit a personne
@@ -161,22 +162,22 @@ Nikita # # Luc Besson # Thriller,Drame
 No country for old men
 Operation espadon
 Orange mecanique
-Permis de tuer
-Philadelphia
-Pirates of Silicon Valley
-Pitch Black
+Philadelphia # # # Drame
+Pirates of Silicon Valley # l'histoire de l'informatique # # geek
+Pitch Black # Vin Diesel n'a pas peur du noir # # SF,Action
+Riddick's Chronicle # Vin Diesel n'a peur de personne # # SF,Action # pitch black 2
 Point Break
 Porco rosso
-Predator
+Predator # Schwarzy en forêt # # SF,Action
 Pretty Woman
-Princess bride
+Princess bride # My name is Inigo Montoya # Rob Reiner # Comédie,Aventure
 Princesse Mononoke
-Psychose
-Pulp fiction
+Psychose # # Alfred Hitchcock # Horreur
+Pulp fiction # Say 'what' again. Say 'what' again, I dare you, I double dare you motherfucker, say what one more Goddamn time! # Quentin Tarantino # Thriller
 Rain man
 Rambo 1
-Rencontres du 3eme type
-Retour vers le futur
+Rencontres du 3eme type # I know this sounds crazy, but ever since yesterday on the road, I've been seeing this shape # Steven Spielberg # SF
+Retour vers le futur # 1.21 Gigawatts! # Robert Zemeckis # SF
 Retour vers le futur 2
 Retour vers le futur 3
 Road to perdition
@@ -184,49 +185,49 @@ Robin des Bois
 Rocky 1
 Rocky 2
 Rocky horror picture show
-Roger Rabbit
-Rollerball (ancien & nouveau)
-Running man
-Scary movie 1
-Scream 1
-Serenity
+Roger Rabbit # # # anime
+Rollerball # voir l'ancien & le nouveau ... theme: le public aime la violence # # SF
+Running man # Schwarzy doit courir # # SF
+Scary movie 1 # # # Comédie
+Scream 1 # Phone Voice: Do you like scary movies? # Wes Craven # Horreur
+Serenity # # Joss Whedon # SF
 Seven
 Shawn of the dead
-Shining
+The Shining # Heeere's Johnny! # Stanley Kubrick # Fantastique # Horreur,Fantastique # shining
 Shoot'em up
 Sin city
 Sleepy hollow
 Snatch
-soleil vert / Soylent Green
-SOS Fantome 2 / Ghostbusters 2
-Spaceballs
+soleil vert / Soylent Green # Le futur est tellement parfait... # # SF
+SOS Fantome 2 / Ghostbusters 2 # Who you gonna call # # Comédie,Fantastique
+Spaceballs # Rick Moranis est Darth Vader # Mel Brooks # SF,Comédie
 Speed
-Starship Troopers
+Starship Troopers # They're doing their part. Are you? Join the Mobile Infantry and save the world. Service guarantees citizenship. # Paul Verhoeven # SF
 Sweeney todd
 Tais-toi
 Taxi driver
-Team america, world police
-Terminator
-Terminator 2
+Team america, world police # marionnettes! # # Comédie
+Terminator # Schwarzy robot méchant # # SF
+Terminator 2 # Schwarzy robot gentil # # SF
 The Blues Brothers
 The Game
-The Mask
+The Mask # Jim Carrey super-héros # # Comédie
 The Rock
-The Truman show
-Titanic
+The Truman show # Jim carrey star de télé-réalité
+Titanic # # # Drame
 Top Gun
-Total recall
+Total recall # # # SF
 Traque sur internet # film raisonnablement realiste sur Kevin Mitnick
 Tremors 1 # Burt Gummer!
 Tremors 2 # Burt Gummer, encore!
-Tron
+Tron # # # Geek,SF
 Un crime au paradis
 Une nuit en enfer
-Usual suspect
+Usual suspect # # # Thriller
 Versus # bon, pas strictement necessaire
 Vol au dessus d'un nid de coucou
-Wargame
+Wargame # # # geek,SF
 Wayne's'world
-Willow
+Willow # # # Fantastique
 Xfiles: quand vient la nuit
-Zombieland # mention honorable parce que : "Goddamn it, Bill fucking Murray!"
+Zombieland # mention honorable parce que : "Goddamn it, Bill fucking Murray!" # # Comédie
