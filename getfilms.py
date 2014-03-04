@@ -1,13 +1,17 @@
 #!/usr/bin/env python
 
+import codecs
+
 films=file("films.txt")
 
-base_template="""
-title: "%s"
+base_template=u"""
+title: "%(titre)s"
 category: films
-tag: 
+tags: [%(genre)s]
+realisateur: %(realisateur)s
+sortable: %(slug)s
 ---
-%s
+%(description)s
 
 """
 
@@ -23,7 +27,7 @@ def slugify(text, delim=u'-'):
     """
     result = []
     for word in _punct_re.split(text.lower()):
-        word = normalize('NFKD', unicode(word, errors='ignore')).encode('ascii','ignore').replace("'", "")
+        word = normalize('NFKD', word).encode('ascii','ignore').replace("'", "")
         if word:
             result.append(word)
 
@@ -35,23 +39,35 @@ def slugify(text, delim=u'-'):
 
     return unicode(result)
 
+header=films.readline()
+header=map(lambda x: x.strip().lower().decode('utf8'), header.split('#'))
+base={}
+for name in header:
+    base[name]=''
+
+stem_re=re.compile(r"^(The|Le|La|Les|L')\b", re.IGNORECASE)
+
 for line in films:
-    line=line.strip().split('#')
-    if len(line) == 1:
-        comment=''
+    film=base.copy()
+    values=line.strip().split('#')
+    values=map(lambda x: x.strip().decode('utf8'), values)
+
+    film.update(dict(zip(header, values)))
+
+    if film['nom pour classement']:
+        name=film['nom pour classement']
     else:
-        comment=line[1].strip()
-    title=line[0].strip()
-    filename=slugify(title)+'.txt'
+        name=film['titre']
 
-    print title
-    print filename
-    print '--'
-    print comment
-    print
+    filename=slugify(name)+'.txt'
 
+    film['slug']=slugify(stem_re.sub('', name))
 
-    out=file('content/films/' + filename, 'w')
-    out.write(base_template % (title, comment))
+    print film['titre']
+    print filename, film
+    print base_template % film
+
+    out=codecs.open('content/films/' + filename, 'w', 'utf8')
+    out.write(base_template % film)
     out.close()
 
