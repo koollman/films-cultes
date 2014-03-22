@@ -1,66 +1,75 @@
 Titre # description # realisateur # genre # nom pour classement
-2001, L'odyssee de l'espace # long, mais un classique de la SF # Stanley Kubrick # SF
-23
-4 marriage et 1 enterrement
-5eme element # multipass # Luc Besson # SF
-Ace ventura # Jim Carrey est detective
-Akira # # # anime,manga
-Aladdin # voir vf et vo # # anime
+1984 # War is peace. Freedom is slavery. Ignorance is strength
+le meilleur des mondes # 
+2001, L'odyssée de l'espace # long, mais un classique de la SF # Stanley Kubrick # SF # 20
+23 # # # # 23
+4 mariages et 1 enterrement # # Mike Newell
+Ace ventura # Jim Carrey est detective # Tom Shadyac # Comédie
+Akira # # Katsuhiro Otomo # anime,manga
+Aladdin # Disney: voir vf et vo # # anime
 Alien - le huitième passager # Alien 1. Ellen Ripley # Ridley Scott # SF # alien-1
 Alien - le retour # Alien 2 # James Cameron # SF # alien-2
 Alien 3 # Alien 3. duh. # David Fincher # SF # alien-3
 Alien - la resurrection # Alien 4 # # SF # alien-4
+Amadeus # Mozart # Milos Forman # Biographique
 American psycho # Christian Bale, psychopathe # Mary Harron # Thriller,Horreur
-Antitrust # Ce milieu est binaire, on est soit 1 ou soit 0… on est vivant ou mort. Il n’y a pas de second rang # geek
-Apocalypse now # I love the smell of napalm in the morning. # Coppola # Guerre
-Armée des 12 singes
-Arnaque crime et botanique
+Antitrust # Ce milieu est binaire, on est soit 1 ou soit 0… on est vivant ou mort. Il n’y a pas de second rang # Peter Howitt # geek
+Apocalypse now # I love the smell of napalm in the morning. # Francis Ford Coppola # Guerre
+Armageddon # Bruce Willis doit sauver le monde # Michael Bay # SF
+Armée des 12 singes # Bruce Willis doit sauver le monde # Terry Gilliam # SF
+Arnaques, crimes et botanique # # Guy Ritchie # Comédie,Policier
 Asterix (dessin animes) 12 travaux, et cleopatre, le coup du menhir
-Basic instinct # # # Thriller
-Battle Royale
-Battle Royale 2
-Beetlejuice
-Bernie # # # Horreur
-Bigfish
-Blade
+Basic Instinct # Michael Douglas et Sharon Stone # Paul Verhoeven # Thriller
+Battle Royale # Voyage scolaire ... à la japonaise # Kinji Fukasaku # SF
+Battle Royale 2: Requiem # # Kinji Fukasaku # SF
+Beetlejuice # La vie après la mort ... façon Burton # Tim Burton # Comédie,Fantastique
+Bernie # # Albert Dupontel # Comédie
+Big Fish # # Tim Burton # Fantastique
+Blade # Wesley Snipes, chasseur de (vrais) vampires # Stephen Norrigton # Action
 Blade runner # # Ridley Scott # SF
-Bloodsport
-Borat # Mon nom Borat, j’aime vous
-The Bourne Identity # # # espionnage # Bourne 1
-The Bourne Supremacy # # # espionnage # Bourne 2
-The Bourne Ultimatum # # # espionnage # Bourne 3
-Braveheart
-Bruce tout puissant # Jim Carrey est Dieu # # Comédie
+Bloodsport # Van Damme en tournoi # Newt Arnold # Action
+Le Bossu # Si tu ne viens pas à Lagardère, Lagardère ira à toi ! # Philippe de Broca # Aventure # bossu
+Borat # Mon nom Borat, j’aime vous # Larry Charles # Comédie
+The Bourne Identity # La mémoire dans la peau # Doug Liman # espionnage # Bourne 1
+The Bourne Supremacy # La mort dans la peau # Paul Greengrass # espionnage # Bourne 2
+The Bourne Ultimatum # La vengeance dans la peau # Paul Greengrass # espionnage # Bourne 3
+Braveheart # I am William Wallace # Mel Gibson # Guerre,Aventure
+Bruce tout-puissant # Jim Carrey est Dieu # Tom Shadyac # Comédie
 Burn after reading
 C'est arrive pres de chez vous
 Carrie # 1976
 Casino
 Chucky # Salut je m'appele Chucky, tu veux être mon ami? # # Horreur
+Le cinquième element # multipass # Luc Besson # SF # cinquième
 Citizen Kane
 Cobra
 Collateral
 Commando # Scharwzy le papa en colère # # Action
 Conan le barbare # Schwarzy le barbare # # Action
+Conspiracy Theory
 Copland
-Critters # # Comédie,SF
+Crocodile Dundee # un australien à New York # Paul Hogan # Aventure,Comédie
+Critters # # # Comédie,SF
+Cube # # Vincenzo Natali # SF,Horreur
 Cyrano de Bergerac # # Comédie,Drame
 Dangereusement votre
 Demolition man # Send a maniac to catch one # # Action
+Delicatessen
 Die Hard 1, 2, 3, 4 
 Dikkenek
 Dirty Dancing
 Doberman
 Dogma
-Dracula # Un vrai vampire # Coppola # Fantastique
+Dracula # Un vrai vampire # Francis Ford Coppola # Fantastique
 Dragon Rouge # Hannibal Lecter, 3 # # Thriller,Policier  # hannibal 3
 dredd , judge dredd
 Dumb and dumber # # # Comédie
 Dune # version de 1984, ou lire les livres # # SF
 Ennemy of the state
+E.T. # # Steven Spielberg # SF # ET
 Equilibrium # gun kata # # SF
-E.T. # # Steven Spielberg # SF
 Etrange noel de Mr jack # quand Tim Burton participe a un film d'animation... # Henry Selick # anime
-Evil dead
+Evil dead # voir aussi le 2, et le 3
 Fantasia
 Fenetre sur court
 Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club! # David Fincher
@@ -147,6 +156,7 @@ Mars attack
 Mary Poppins # Supercalifragilisticexpialidocious
 Matrix 1
 Matrix 2
+Midnight Express # # Alan Parker # Drame
 Minority report
 Misery
 Mondwest
@@ -157,9 +167,11 @@ Monty Python's Life of Brian # # # Comédie
 Monty Python's The Meaning of Life # # # Comédie
 Mortal kombat
 Mrs doubtfire
+Mystery Men # Super-héros de second ordre # Kinka Usher # Comédie
 Ne le dit a personne
 Nikita # # Luc Besson # Thriller,Drame
 No country for old men
+Office Space
 Operation espadon
 Orange mecanique
 Philadelphia # # # Drame
@@ -176,6 +188,7 @@ Psychose # # Alfred Hitchcock # Horreur
 Pulp fiction # Say 'what' again. Say 'what' again, I dare you, I double dare you motherfucker, say what one more Goddamn time! # Quentin Tarantino # Thriller
 Rain man
 Rambo 1
+Rastarocket
 Rencontres du 3eme type # I know this sounds crazy, but ever since yesterday on the road, I've been seeing this shape # Steven Spielberg # SF
 Retour vers le futur # 1.21 Gigawatts! # Robert Zemeckis # SF
 Retour vers le futur 2
@@ -196,12 +209,14 @@ Shawn of the dead
 The Shining # Heeere's Johnny! # Stanley Kubrick # Fantastique # Horreur,Fantastique # shining
 Shoot'em up
 Sin city
+Sister Act # Whoopi Goldberg en nonne # Emile Ardolino # Comédie
 Sleepy hollow
 Snatch
 soleil vert / Soylent Green # Le futur est tellement parfait... # # SF
 SOS Fantome 2 / Ghostbusters 2 # Who you gonna call # # Comédie,Fantastique
 Spaceballs # Rick Moranis est Darth Vader # Mel Brooks # SF,Comédie
 Speed
+Star Wars # les 3 premiers, surtout. "La peur est le chemin vers le côté obscur : la peur mène à la colère, la colère mène à la haine, la haine… mène à la souffrance" # Steven Spielberg # SF 
 Starship Troopers # They're doing their part. Are you? Join the Mobile Infantry and save the world. Service guarantees citizenship. # Paul Verhoeven # SF
 Sweeney todd
 Tais-toi
@@ -217,6 +232,8 @@ The Truman show # Jim carrey star de télé-réalité
 Titanic # # # Drame
 Top Gun
 Total recall # # # SF
+Le Transporteur # Jason Statham, conducteur # # Action # transporteur
+Le Transporteur 2 # Jason Statham, chauffeur # # Action # transporteur 2
 Traque sur internet # film raisonnablement realiste sur Kevin Mitnick
 Tremors 1 # Burt Gummer!
 Tremors 2 # Burt Gummer, encore!
@@ -225,7 +242,8 @@ Un crime au paradis
 Une nuit en enfer
 Usual suspect # # # Thriller
 Versus # bon, pas strictement necessaire
-Vol au dessus d'un nid de coucou
+Vol au dessus d'un nid de coucou # Jack Nicholson, interné # Milos Forman # Drame
+Le Voyage de Chihiro # # Hayao Miyazaki # Drame,Fantastique,Aventure # Voyage de Chihiro
 Wargame # # # geek,SF
 Wayne's'world
 Willow # # # Fantastique
