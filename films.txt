@@ -13,12 +13,14 @@ Alien 3 # Alien 3. duh. # David Fincher # SF # alien-3
 Alien - la resurrection # Alien 4 # # SF # alien-4
 Amadeus # Mozart # Milos Forman # Biographique
 American psycho # Christian Bale, psychopathe # Mary Harron # Thriller,Horreur
+American Beauty # # Sam Mendes
 Antitrust # Ce milieu est binaire, on est soit 1 ou soit 0… on est vivant ou mort. Il n’y a pas de second rang # Peter Howitt # geek
 Apocalypse now # I love the smell of napalm in the morning. # Francis Ford Coppola # Guerre
 Armageddon # Bruce Willis doit sauver le monde # Michael Bay # SF
 Armée des 12 singes # Bruce Willis doit sauver le monde # Terry Gilliam # SF
 Arnaques, crimes et botanique # # Guy Ritchie # Comédie,Policier
 Asterix (dessin animes) 12 travaux, et cleopatre, le coup du menhir
+L'aventure interieure # # Joe Dante # SF,Comédie
 Basic Instinct # Michael Douglas et Sharon Stone # Paul Verhoeven # Thriller
 Battle Royale # Voyage scolaire ... à la japonaise # Kinji Fukasaku # SF
 Battle Royale 2: Requiem # # Kinji Fukasaku # SF
@@ -63,16 +65,19 @@ Dikkenek
 Dirty Dancing
 Doberman
 Dogma
+Donnie Darko
 Dracula # Un vrai vampire # Francis Ford Coppola # Fantastique
 Dragon Rouge # Hannibal Lecter, 3 # # Thriller,Policier  # hannibal 3
 dredd , judge dredd
 Dumb and dumber # # # Comédie
 Dune # version de 1984, ou lire les livres # # SF
+Edward aux mains d'argent # mains-ciseaux # Tim Burton # Fantastique
 Ennemy of the state
 E.T. # # Steven Spielberg # SF # ET
 Equilibrium # gun kata # # SF
 Etrange noel de Mr jack # quand Tim Burton participe a un film d'animation... # Henry Selick # anime
 Evil dead # voir aussi le 2, et le 3
+Excalibur #  # John Boorman # Fantastique
 Eyes Wide Shut
 Fantasia
 Fenetre sur court
@@ -80,6 +85,8 @@ Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fig
 Forrest Gump # Cours Forrest, Cours
 Frozen
 Full Metal Jacket # Do you think I'm cute, Private Pyle? Do you think I'm funny? # # Guerre
+The Full Monty # # Peter Cattaneo
+La fureur du dragon # # Bruce Lee # Action
 Gattaca # eugénisme # # SF
 Ghost
 Ghost in the shell # # # anime,SF
@@ -96,6 +103,7 @@ Hannibal # Hannibal Lecter, 2 # # Thriller,Policier # hannibal 2
 Heat
 Highlander # Avec Christophe Lambert # # Fantastique
 Hocus pocus # (vo) # # Comédie,Fantastique
+Hook # # Steven Spielberg
 Hotshots # Trouver les références à chaque film parodié... # # Comédie
 Hotshots 2 # Retrouver les références à chaque film parodié # # Comédie
 Identity
@@ -157,6 +165,7 @@ Le tombeau des lucioles
 L'histoire sans fin
 Lord of war
 Machete
+Mad Max 2
 Mafia blues
 Magnolia
 Les maitres du temps # # # # maitres
@@ -166,6 +175,7 @@ Mars attack
 Mary Poppins # Supercalifragilisticexpialidocious
 Matrix 1
 Matrix 2
+Men in Black # # Barry Sonnenfeld
 Metropolis
 Midnight Express # # Alan Parker # Drame
 Minority report
@@ -186,6 +196,8 @@ O'brother
 Office Space
 Operation espadon
 Orange mecanique
+Papy fait de la résistance
+le pere noel est une ordure # # Jean-Marie Poiré # Comédie
 Philadelphia # # # Drame
 Pirates of Silicon Valley # l'histoire de l'informatique # # geek
 Pitch Black # Vin Diesel n'a pas peur du noir # # SF,Action
@@ -207,6 +219,8 @@ Rencontres du 3eme type # I know this sounds crazy, but ever since yesterday on 
 Retour vers le futur # 1.21 Gigawatts! # Robert Zemeckis # SF
 Retour vers le futur 2
 Retour vers le futur 3
+Requiem for a dream # Un film optimiste... # # 
+Reservoir dog # # Darren Aronofsky
 Road to perdition
 Robin des Bois
 Rocky 1
@@ -241,6 +255,7 @@ Terminator # Schwarzy robot méchant # # SF
 Terminator 2 # Schwarzy robot gentil # # SF
 The Blues Brothers
 The Big Lebowsky
+The Crow # # Alex Proyas # Fantastique
 The Game
 The Mask # Jim Carrey super-héros # # Comédie
 The Rock
@@ -250,6 +265,7 @@ Titanic # # # Drame
 Top Gun
 Total recall # # # SF
 Totora
+Toy Story # # John Lasseter # anime,Comédie
 Trainspotting
 Le Transporteur # Jason Statham, conducteur # # Action # transporteur
 Le Transporteur 2 # Jason Statham, chauffeur # # Action # transporteur 2
@@ -262,6 +278,7 @@ Un crime au paradis
 Une nuit en enfer
 Usual suspect # # # Thriller
 Versus # bon, pas strictement necessaire
+La vie est belle # # Roberto Benigni
 La vie est un long fleuve tranquille
 Virgin Suicide
 Vol au dessus d'un nid de coucou # Jack Nicholson, interné # Milos Forman # Drame
