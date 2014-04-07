@@ -33,11 +33,14 @@ Borat # Mon nom Borat, j’aime vous # Larry Charles # Comédie
 The Bourne Identity # La mémoire dans la peau # Doug Liman # espionnage # Bourne 1
 The Bourne Supremacy # La mort dans la peau # Paul Greengrass # espionnage # Bourne 2
 The Bourne Ultimatum # La vengeance dans la peau # Paul Greengrass # espionnage # Bourne 3
+Braindead
 Braveheart # I am William Wallace # Mel Gibson # Guerre,Aventure
+Brazil
 Bruce tout-puissant # Jim Carrey est Dieu # Tom Shadyac # Comédie
 Burn after reading
 C'est arrive pres de chez vous
 Carrie # 1976
+Casablanca Driver
 Casino
 Chucky # Salut je m'appele Chucky, tu veux être mon ami? # # Horreur
 Le cinquième element # multipass # Luc Besson # SF # cinquième
@@ -70,6 +73,7 @@ E.T. # # Steven Spielberg # SF # ET
 Equilibrium # gun kata # # SF
 Etrange noel de Mr jack # quand Tim Burton participe a un film d'animation... # Henry Selick # anime
 Evil dead # voir aussi le 2, et le 3
+Eyes Wide Shut
 Fantasia
 Fenetre sur court
 Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club! # David Fincher
@@ -83,9 +87,10 @@ Gladiator
 God bless America # Roxy: Wow. Look at all these people.  - Frank: Yeah. I wish I had an AK-47. # # Comédie
 Good morning vietnam # Robin William, animateur radio # # Comédie,Guerre
 Good Will Hunting
+Grease
 Gremlins 1
 Gremlins 2
-groundhog day
+Un jour sans fin / Groundhog day
 Hackers # très ... pas réaliste. Mais amusant # # geek,Comédie
 Hannibal # Hannibal Lecter, 2 # # Thriller,Policier # hannibal 2
 Heat
@@ -99,8 +104,10 @@ Idiocracy # Un documentaire réaliste sur le futur :) # # Comédie,SF
 Il faut sauver le soldat Ryan # # # Guerre
 Impitoyable
 Indiana jones # (tous, sauf dernier) # # Aventure
+Jean de Florette
 jcvd
 Jurassic Park # Boy, do I hate being right all the time! # Steven Spielberg # Fantastique,Action,Aventure
+Kill Bill
 Krull # un vieux, vieux classique de fantasy # Peter Yates # Fantastique,Aventure
 L'arme fatale 1 2 3 4
 L'aile ou la cuisse # Louis de Funès et Coluche # # Comédie
@@ -112,6 +119,7 @@ La gloire de mon pere
 La grande vadrouille
 la guerre des boutons # si j'aurais su, j'aurais pas venu
 La haine
+Les liaisons dangereuses # # # # liaisons
 La Ligne verte
 La planete des singes
 La soupe aux choux
@@ -151,11 +159,14 @@ Lord of war
 Machete
 Mafia blues
 Magnolia
+Les maitres du temps # # # # maitres
 Maman j'ai raté l'avion
+Manon des sources
 Mars attack
 Mary Poppins # Supercalifragilisticexpialidocious
 Matrix 1
 Matrix 2
+Metropolis
 Midnight Express # # Alan Parker # Drame
 Minority report
 Misery
@@ -171,6 +182,7 @@ Mystery Men # Super-héros de second ordre # Kinka Usher # Comédie
 Ne le dit a personne
 Nikita # # Luc Besson # Thriller,Drame
 No country for old men
+O'brother
 Office Space
 Operation espadon
 Orange mecanique
@@ -178,6 +190,8 @@ Philadelphia # # # Drame
 Pirates of Silicon Valley # l'histoire de l'informatique # # geek
 Pitch Black # Vin Diesel n'a pas peur du noir # # SF,Action
 Riddick's Chronicle # Vin Diesel n'a peur de personne # # SF,Action # pitch black 2
+Pee-wee's Big Adventure
+Petits meurtres entre amis
 Point Break
 Porco rosso
 Predator # Schwarzy en forêt # # SF,Action
@@ -218,6 +232,7 @@ Spaceballs # Rick Moranis est Darth Vader # Mel Brooks # SF,Comédie
 Speed
 Star Wars # les 3 premiers, surtout. "La peur est le chemin vers le côté obscur : la peur mène à la colère, la colère mène à la haine, la haine… mène à la souffrance" # Steven Spielberg # SF 
 Starship Troopers # They're doing their part. Are you? Join the Mobile Infantry and save the world. Service guarantees citizenship. # Paul Verhoeven # SF
+Subway
 Sweeney todd
 Tais-toi
 Taxi driver
@@ -225,27 +240,35 @@ Team america, world police # marionnettes! # # Comédie
 Terminator # Schwarzy robot méchant # # SF
 Terminator 2 # Schwarzy robot gentil # # SF
 The Blues Brothers
+The Big Lebowsky
 The Game
 The Mask # Jim Carrey super-héros # # Comédie
 The Rock
 The Truman show # Jim carrey star de télé-réalité
+The Wall
 Titanic # # # Drame
 Top Gun
 Total recall # # # SF
+Totora
+Trainspotting
 Le Transporteur # Jason Statham, conducteur # # Action # transporteur
 Le Transporteur 2 # Jason Statham, chauffeur # # Action # transporteur 2
 Traque sur internet # film raisonnablement realiste sur Kevin Mitnick
 Tremors 1 # Burt Gummer!
 Tremors 2 # Burt Gummer, encore!
 Tron # # # Geek,SF
+Tueurs Nés
 Un crime au paradis
 Une nuit en enfer
 Usual suspect # # # Thriller
 Versus # bon, pas strictement necessaire
+La vie est un long fleuve tranquille
+Virgin Suicide
 Vol au dessus d'un nid de coucou # Jack Nicholson, interné # Milos Forman # Drame
 Le Voyage de Chihiro # # Hayao Miyazaki # Drame,Fantastique,Aventure # Voyage de Chihiro
 Wargame # # # geek,SF
 Wayne's'world
+West Side Story
 Willow # # # Fantastique
 Xfiles: quand vient la nuit
 Zombieland # mention honorable parce que : "Goddamn it, Bill fucking Murray!" # # Comédie
