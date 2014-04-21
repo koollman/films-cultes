@@ -26,6 +26,7 @@ Battle Royale # Voyage scolaire ... à la japonaise # Kinji Fukasaku # SF
 Battle Royale 2: Requiem # # Kinji Fukasaku # SF
 Beetlejuice # La vie après la mort ... façon Burton # Tim Burton # Comédie,Fantastique
 Bernie # # Albert Dupontel # Comédie
+Bad Boys # What you gonna do when they come for you # Michael Bay # Action,Comédie
 Big Fish # # Tim Burton # Fantastique
 Blade # Wesley Snipes, chasseur de (vrais) vampires # Stephen Norrigton # Action
 Blade runner # # Ridley Scott # SF
@@ -82,6 +83,7 @@ Eyes Wide Shut
 Fantasia
 Fenetre sur court
 Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club! # David Fincher
+Le Flic de Beverly Hills # Eddie Murphy est flic # Martin Brest # Action,Comédie
 Forrest Gump # Cours Forrest, Cours
 Frozen
 Full Metal Jacket # Do you think I'm cute, Private Pyle? Do you think I'm funny? # # Guerre
@@ -145,7 +147,7 @@ Le grand bleu # # Luc Besson # Drame
 Le jour le plus long # # # Guerre
 Le maitre de guerre
 Leon # Natalie Portman enfant, et Jean Reno # Luc Besson # Thriller
-Le parrain
+Le parrain / The Godfather # I'm gonna make him an offer he can't refuse # Francis Ford Coppola # Drame
 Le Petit Dinosaure et la Vallée des merveilles
 Le prenom
 le professionel
@@ -175,7 +177,6 @@ Manon des sources
 Mars attack
 Mary Poppins # Supercalifragilisticexpialidocious
 Matrix 1
-Matrix 2
 Men in Black # # Barry Sonnenfeld
 Metropolis
 Midnight Express # # Alan Parker # Drame
@@ -222,6 +223,7 @@ Retour vers le futur 2
 Retour vers le futur 3
 Requiem for a dream # Un film optimiste... # # 
 Reservoir dog # # Darren Aronofsky
+Ring # # Hideo Nakata # Horreur
 Road to perdition
 Robin des Bois
 Rocky 1
@@ -229,6 +231,8 @@ Rocky 2
 Rocky horror picture show
 Roger Rabbit # # # anime
 Rollerball # voir l'ancien & le nouveau ... theme: le public aime la violence # # SF
+Rush Hour # # Brett Ratner # Action,Comédie
+Rush Hour 2 # # Brett Ratner # Action,Comédie
 Running man # Schwarzy doit courir # # SF
 Scary movie 1 # # # Comédie
 Scream 1 # Phone Voice: Do you like scary movies? # Wes Craven # Horreur
@@ -284,6 +288,7 @@ La vie est un long fleuve tranquille
 Virgin Suicide
 Vol au dessus d'un nid de coucou # Jack Nicholson, interné # Milos Forman # Drame
 Le Voyage de Chihiro # # Hayao Miyazaki # Drame,Fantastique,Aventure # Voyage de Chihiro
+Watchmen # None of you seem to understand. I'm not locked in here with you. You're locked in here with *ME*! # Zack Snyder # Action
 Wargame # # # geek,SF
 Wayne's'world
 West Side Story
