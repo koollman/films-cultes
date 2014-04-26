@@ -1,5 +1,5 @@
 Titre # description # realisateur # genre # nom pour classement
-1984 # War is peace. Freedom is slavery. Ignorance is strength
+1984 # War is peace. Freedom is slavery. Ignorance is strength # Michael Anderson # SF
 le meilleur des mondes # 
 2001, L'odyssée de l'espace # long, mais un classique de la SF # Stanley Kubrick # SF # 20
 23 # # # # 23
@@ -81,11 +81,11 @@ Evil dead # voir aussi le 2, et le 3
 Excalibur #  # John Boorman # Fantastique
 Eyes Wide Shut
 Fantasia
-Fenetre sur court
+Fenêtre sur cour
 Fight club # La 1ère règle du Fight club est, il est interdit de parler du Fight Club! La 2ème règle du Fight club est, il est INTERDIT de parler du Fight Club! # David Fincher
 Le Flic de Beverly Hills # Eddie Murphy est flic # Martin Brest # Action,Comédie
 Forrest Gump # Cours Forrest, Cours
-Frozen
+La reine des neiges / Frozen
 Full Metal Jacket # Do you think I'm cute, Private Pyle? Do you think I'm funny? # # Guerre
 The Full Monty # # Peter Cattaneo
 La fureur du dragon # # Bruce Lee # Action
@@ -115,6 +115,7 @@ Idiocracy # Un documentaire réaliste sur le futur :) # # Comédie,SF
 Il faut sauver le soldat Ryan # # # Guerre
 Impitoyable
 Indiana jones # (tous, sauf dernier) # # Aventure
+Into the wild # # Sean Penn # Drame
 Jean de Florette
 jcvd
 Jurassic Park # Boy, do I hate being right all the time! # Steven Spielberg # Fantastique,Action,Aventure
@@ -268,6 +269,7 @@ The Truman show # Jim carrey star de télé-réalité
 The Wall
 Titanic # # # Drame
 Top Gun
+La Tour Montparnasse Infernale # Tout petit breton # Charles Nemes # Comédie
 Total recall # # # SF
 Totora
 Toy Story # # John Lasseter # anime,Comédie
@@ -290,8 +292,8 @@ Vol au dessus d'un nid de coucou # Jack Nicholson, interné # Milos Forman # Dra
 Le Voyage de Chihiro # # Hayao Miyazaki # Drame,Fantastique,Aventure # Voyage de Chihiro
 Watchmen # None of you seem to understand. I'm not locked in here with you. You're locked in here with *ME*! # Zack Snyder # Action
 Wargame # # # geek,SF
-Wayne's'world
+Wayne's world
 West Side Story
-Willow # # # Fantastique
+Willow # # Ron Howard # Fantastique
 Xfiles: quand vient la nuit
-Zombieland # mention honorable parce que : "Goddamn it, Bill fucking Murray!" # # Comédie
+Zombieland # mention honorable parce que : "Goddamn it, Bill fucking Murray!" # Ruben Fleischer # Comédie
